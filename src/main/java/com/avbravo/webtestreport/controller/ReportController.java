@@ -140,7 +140,7 @@ public class ReportController implements Serializable {
         return null;
     }// </editor-fold>
 
-// <editor-fold defaultstate="collapsed" desc="printFacturaWizard()">
+// <editor-fold defaultstate="collapsed" desc="printFacturaSubReport()">
     public String printFacturaSubReport() {
 
         try {
